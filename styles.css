@@ -77,6 +77,12 @@ body {
     }
 }
 
+@media screen and (max-width: 270px ){
+    .scren{
+        width: 100%;
+    }
+}
+
 .header {
     background-color: black;
     padding: 10px 0;
