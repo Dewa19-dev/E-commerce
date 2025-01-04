@@ -72,7 +72,9 @@ body {
     .wrapper{
         width: 90%;
     }
-    
+    .skibidi{
+        display:100%;
+    }
 }
 
 .header {
