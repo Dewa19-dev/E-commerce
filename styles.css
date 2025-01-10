@@ -151,6 +151,7 @@ body {
 }
 
 .product1 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
@@ -192,6 +193,7 @@ body {
 }
 
 .product2 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
@@ -233,6 +235,7 @@ body {
 }
 
 .product3 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
@@ -274,6 +277,7 @@ body {
 }
 
 .product4 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
@@ -315,6 +319,7 @@ body {
 }
 
 .product5 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
@@ -356,6 +361,7 @@ body {
 }
 
 .product6 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
@@ -397,6 +403,7 @@ body {
 }
 
 .product7 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
@@ -438,6 +445,7 @@ body {
 }
 
 .product8 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
@@ -479,6 +487,7 @@ body {
 }
 
 .product9 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
@@ -520,6 +529,7 @@ body {
 }
 
 .product10 img {
+    border: black solid;
     max-width: 100%;
     border-radius: 10px;
     transition: transform 0.3s;
