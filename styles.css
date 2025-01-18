@@ -326,6 +326,11 @@ body {
 
 .product1 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product1 h3{
@@ -374,6 +379,11 @@ body {
 
 .product2 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product2 h3{
@@ -422,6 +432,11 @@ body {
 
 .product3 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product3 h3{
@@ -470,6 +485,11 @@ body {
 
 .product4 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product4 h3{
@@ -518,6 +538,11 @@ body {
 
 .product5 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product5 h3{
@@ -566,6 +591,11 @@ body {
 
 .product6 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product6 h3{
@@ -614,6 +644,11 @@ body {
 
 .product7 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product7 h3{
@@ -662,6 +697,11 @@ body {
 
 .product8 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product8 h3{
@@ -710,6 +750,11 @@ body {
 
 .product9 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product9 h3{
@@ -758,6 +803,11 @@ body {
 
 .product10 p{
     color: rgb(255, 1, 1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+    position: relative;
+    top: 17%;
 }
 
 .product10 h3{
